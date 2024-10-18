@@ -4,7 +4,7 @@ import Countries from './Components/Countries/Countries'
 function App() {
   return (
     <>
-      <h1 style={{textAlign:'center'}}>Rest Countries with - REACT</h1>
+      <h1 style={{ textAlign: 'center' }}>Rest Countries with - REACT</h1>
       <Countries></Countries>
     </>
   )
