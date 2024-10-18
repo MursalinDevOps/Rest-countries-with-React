@@ -5,7 +5,9 @@
 
 }
 
-
+.visited{
+    background-color: green;
+}
 
 @media (max-width: 1024px) {
     .country-container {
